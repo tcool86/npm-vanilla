@@ -1,6 +1,6 @@
-# npm vanilla
+# vanilla project using node modules
 
-Simple npm boilerplate with Babel and Parcel.
+Simple boilerplate with Babel and Parcel.
 
 Mostly designed to import jQuery as an Ecma Script 6 module in a basic project 😋
 
